@@ -1,5 +1,5 @@
 # YouTube Clone Web App 
-live preview: https://youtubeclone-bm.netlify.app
+live preview - https://youtubeclone-bm.netlify.app
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -69,4 +69,4 @@ The application is deployed using Netlify. Follow these steps to deploy your own
 
 ## Contact 📞
 
-#### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/bhoomikamittal/)
+#### If you have any doubt feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/bhoomikamittal/)
